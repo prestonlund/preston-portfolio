@@ -22,7 +22,7 @@ div.img:hover img {
   filter: grayscale(40%);
 }
 
-div.img * {
+/* div.img * {
   transition: all .25s ease-in-out;
-}
+} */
 
